@@ -3,6 +3,7 @@
 -- Machine learning for semantic segmentation of satellite imagesto detect road networks and building footprints with ArcGIS APIfor Python
 
 -- Author: Mariia Arbenina
+
 -- Email: zzingerr@gmail.com, mariia.arbenina@aalto.fi
 
 -- The Notebook Semantic_Segmentation_Roads_Buildings.ipynb in this repository includes the following incstructions:
